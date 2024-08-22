@@ -1,6 +1,6 @@
 <h1>Hi there👋</h1>
-<p><b>I'm Adenike Adewumi, an Electronic and Electrical Engineering student at Obafemi Awolowo University. 
-</b></p>
+<p><b>I'm Adenike Adewumi</b>, an Electronic and Electrical Engineering student at Obafemi Awolowo University. 
+</p>
 <p>I have profound passion for Data Science and Machine Learning</p>
 <h2>About Me</h2>
 <ul>

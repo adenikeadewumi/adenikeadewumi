@@ -6,7 +6,7 @@
 <ul>
 <li>👀 I’m interested in Tech and Human psychology</li>
 <li> 🌱 I’m currently learning Mathematics for Machine learning and It's Explainability</li>
-<li> 💞️ I’m looking to collaborate with fellow enthusiasts on data science and ML projects</li>
+<li> 💞️ I’m looking forward to collaborate with fellow enthusiasts on data science and ML projects</li>
 <li> 😌 Ask me about Tech and Python
 <li> 📫 You can reach out to me on <a href="https://www.linkedin.com/in/adewumi-adenike-93b62030a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
 <li> 😄 Pronouns: she/her
